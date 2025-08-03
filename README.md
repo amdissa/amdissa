@@ -1,12 +1,13 @@
 ## Hello there, I'm Nazrin R Mammadsoy 👋
 
-I'm a recent **UC Berkeley** graduate with a dual degree in **Data Science** and **Molecular & Cell Biology**. I enjoy building full-stack applications, analyzing real-world datasets, and exploring intersections between tech and life sciences.
+I'm a recent **UC Berkeley** graduate with a dual degree in **Data Science** and **Molecular & Cell Biology**.  
+I enjoy building full-stack applications, analyzing real-world datasets, and exploring intersections between tech and life sciences.
 
-🔬 Currently working as an **Instructional Associate** for biotechnology labs and a **Student Assistant III** at UC Berkeley’s Haas School of Business, supporting AV operations for faculty and events
-💻 Passionate about full-stack development, data visualization, and bioinformatics
-🌱 Exploring bioinformatics tools and interactive data visualization
-🌱 Learning full-stack development best practices and expanding React skills
-🎓 CodePath Web Dev & Technical Interview Prep Alumni  
+🔬 Currently working as an **Instructional Associate** for biotechnology labs and a **Student Assistant III** at UC Berkeley’s Haas School of Business, supporting AV operations for faculty and events  
+💻 Passionate about full-stack development, data visualization, and bioinformatics  
+🧬 Exploring bioinformatics tools and interactive data visualization  
+🌱 Learning full-stack development best practices and expanding React skills  
+🎓 CodePath Web Dev & Technical Interview Prep Alumni
 
 <!--
 **amdissa/amdissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
