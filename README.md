@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amdissa&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdissa&theme=radical" alt="amdissa" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amdissa&show_icons=true&bg_color=ffffff&title_color=00a000&text_color=000000&icon_color=00a000" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdissa&background=FFFFFF&ring=00a000&fire=00a000&currStreakLabel=00a000&sideNums=000000&sideLabels=000000&dates=666666" />
 </div>
+
