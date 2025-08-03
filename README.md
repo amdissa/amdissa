@@ -1,5 +1,7 @@
 ## Hello there, I'm Nazrin R Mammadsoy 👋
 
+
+## 👨🏻‍💻 About Me
 I'm a recent **UC Berkeley** graduate with a dual degree in **Data Science** and **Molecular & Cell Biology**.  
 I enjoy building full-stack applications, analyzing real-world datasets, and exploring intersections between tech and life sciences.
 
