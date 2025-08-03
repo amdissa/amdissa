@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 
 ## 📊 My GitHub Stats:
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Amdissa&show_icons=true&bg_color=ffffff&title_color=00a000&text_color=000000&icon_color=00a000" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amdissa&background=FFFFFF&ring=00a000&fire=00a000&currStreakLabel=00a000&sideNums=000000&sideLabels=000000&dates=666666" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amdissa&show_icons=true&theme=default&hide_title=false&hide_border=false&title_color=3fb950&icon_color=3fb950&text_color=000000&bg_color=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdissa&theme=default&hide_border=false&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
 </div>
+
 
 
 
