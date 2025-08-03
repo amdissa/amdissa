@@ -34,11 +34,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdissa&theme=default&hide_border=false&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
 </div>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amdissa&show_icons=true&bg_color=ffffff&title_color=00a000&text_color=000000&icon_color=00a000" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amdissa&background=FFFFFF&ring=00a000&fire=00a000&currStreakLabel=00a000&sideNums=000000&sideLabels=000000&dates=666666" />
-</div>
-
-
-
 
