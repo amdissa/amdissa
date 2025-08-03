@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ## 📊 My GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amdissa&show_icons=true&bg_color=ffffff&title_color=00a000&text_color=000000&icon_color=00a000" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdissa&theme=default&hide_border=false&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" width="50%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amdissa&show_icons=true&bg_color=ffffff&title_color=00a000&text_color=000000&icon_color=00a000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdissa&theme=default&hide_border=false&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" width="48%" />
 </div>
 
 
